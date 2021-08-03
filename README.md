@@ -1,6 +1,6 @@
 # Steering Wheel USB
 
-This repository holds the code and electronics for a USB based steering wheel rim with a dual clutch system. These are used in both this [GT style rim](https://www.thingiverse.com/) and this [G29 button box mod](https://www.thingiverse.com/).
+This repository holds the code and electronics for a USB based steering wheel rim with a dual clutch system. These are used in both this [Formula style rim](https://www.thingiverse.com/) and this [G29 button box mod](https://www.thingiverse.com/).
 
 This is intended to be used with the Arduino Pro Mirco Board. Using the breakout PCB isn't necessary but steering wheels with larger button/switch counts will get messy very quick using the button matix method that the program utilises. If using a different wiring configuration to that of the PCB, insure that all the input pin assignments are changed acordingly.
 
